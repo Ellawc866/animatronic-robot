@@ -15,10 +15,11 @@ This project is an AI-powered animatronic robotic system built using a Raspberry
 ## Hardware Used
 - Raspberry Pi 5
 - PCA9685 PWM Servo Driver
-- SG90 Servo (head, hand)
-- MG996R Servo (body)
+- SG90 Servo (head, hand, eyes, mouth, eyelids, head turn)
+- MG996R Servo (body turn)
 - Raspberry Pi Camera Module 3
 - Microphone and speaker
+- Power Supply (5V 10A)
 
 ## Software Used
 - Python
