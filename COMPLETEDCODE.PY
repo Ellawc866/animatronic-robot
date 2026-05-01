@@ -1,4 +1,4 @@
-import queue
+import queue  
 import sounddevice as sd
 import json, subprocess, threading, os, sys
 from vosk import Model, KaldiRecognizer
